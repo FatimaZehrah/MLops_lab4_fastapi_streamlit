@@ -1,0 +1,9 @@
+{
+  "model_name": "Iris Classifier",
+  "model_version": "1.0.0",
+  "framework": "scikit-learn",
+  "dataset": "Iris",
+  "features": ["sepal_length", "sepal_width", "petal_length", "petal_width"],
+  "classes": ["setosa", "versicolor", "virginica"],
+  "trained_on": "2026-04-02"
+}
