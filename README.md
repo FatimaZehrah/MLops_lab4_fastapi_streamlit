@@ -1,6 +1,6 @@
-# MLops_lab4_fastapi_streamlit
+# MLops_lab5_fastapi_streamlit
 
-## IE7374 – MLOps Lab 4: FastAPI + Streamlit ML Inference Dashboard
+## IE7374 – MLOps Lab 5: FastAPI + Streamlit ML Inference Dashboard
 
 This project builds on a **FastAPI-based ML inference service** and adds a **Streamlit dashboard** to interact with the deployed model in a clean, user-friendly way.
 
